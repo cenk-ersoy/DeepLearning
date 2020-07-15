@@ -6,3 +6,4 @@ This section includes Jupyter notebooks related to Artificial Neural Networks an
 - **CNN_example_1.ipynb**: This example is from the Udemy course titled "Deep Learning A-Z: Hands on Artificial Neural Networks" by Kirill Eremenko.This is a classic, binary classifier problem where we decide if an input picture is either cat or a dog.
 - **CNN_example_2.ipynb**: (TO BE CORRECTED LATER)
 - **CNN_example_3.ipynb**: This code is from "Python - All in one for Dummies". It is a classification problem. The example uses Fashion MNIST dataset to determine if an input picture belows to a set of trained images (shirt, trouser etc).
+- **Keras_for_Image_Processing.ipynb**: This code uses Keras and ResNet50 to classify a simple image.
